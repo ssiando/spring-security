@@ -9,3 +9,5 @@
 - JDK 17
 
 - mustache
+
+- InMemory
